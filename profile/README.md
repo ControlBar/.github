@@ -3,4 +3,4 @@ _That triangular set of tubes the pilot is suspended through and grabs to move t
 
 A set of scored flying competitions used to quality check scoring programs.
 
-The image from a [article](http://www.madehow.com/Volume-5/Hang-Glider.html) on how hang gliders are made.
+The image from an [article](http://www.madehow.com/Volume-5/Hang-Glider.html) on how hang gliders are made.
